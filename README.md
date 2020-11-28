@@ -1,0 +1,2 @@
+# cme
+python, opencv, cnn
